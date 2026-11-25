@@ -59,3 +59,4 @@ Si pruebas otro tipo de mando, también puedes comentar si funciona y qué model
 
 <img width="220" height="162" alt="67-6767" src="https://github.com/user-attachments/assets/bfb7501e-c2d9-40b0-bc17-8a03af210e79" />
 
+Claude (Anthropic) también formó parte del proyecto como asistente de IA durante su desarrollo.
